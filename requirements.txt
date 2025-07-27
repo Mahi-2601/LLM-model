@@ -16,3 +16,6 @@ protobuf==4.25.7  # Compatible version
 PyPDF2==3.0.1
 python-docx==1.1.0
 textract==1.6.5
+snowflake-connector-python
+snowflake-snowpark-python
+plotly
